@@ -1,7 +1,27 @@
 #!/bin/bash
  sudo apt-get upgrade
 sudo apt update
-clear
+apt install git -y
+			apt install python3 -y 
+			apt install python3-pip -y 	
+            apt install python -y 
+            apt install nmap -y 
+            apt install torghost -y 
+            apt install tor -y 
+            apt install default-jdk -y 
+			apt install openjdk-9-jdk-headless -y 			
+            apt install php -y 			
+			python3 -m pip install setuptools			
+            pip install mechanize 
+            pip install php			
+            pip install tor			
+            pip install curl			
+            pip install tor			
+            pip install stem					
+            pip3 install requests			
+            pip3 install clint		
+            pip3 install coloramas
+            clear
 echo -e '%7 TAMAMLANDI ✅'
 sleep 3
 clear
